@@ -5,7 +5,7 @@
 .env.*
 
 # ...sauf la clé publique Tesla, qui doit être publiée
-!.well-known/appspecific/com.tesla.3p.public-key.pem
+!appspecific/com.tesla.3p.public-key.pem
 
 # OS / éditeurs
 Thumbs.db
