@@ -1,0 +1,10 @@
+# Clés privées / secrets
+*.pem
+*.key
+.env
+.env.*
+
+# OS / éditeurs
+Thumbs.db
+.DS_Store
+.vscode/
